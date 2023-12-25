@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohail Iqbal.</h1>
+<hr>
 <h3 align="center">A Work-In-Progress....</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohis10iq" alt="rohis10iq" /></a> </p>
