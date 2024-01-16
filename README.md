@@ -2,7 +2,6 @@
 <hr>
 <h3 align="center">A Work-In-Progress....</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohis10iq" alt="rohis10iq" /></a> </p>
 
 - 🔭 I’m currently working on **React JS**
 
