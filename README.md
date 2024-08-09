@@ -13,7 +13,7 @@
 
 <h2 align="left">Web Development 🕸:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,redux,nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,nextjs&theme=dark)](https://skillicons.dev)
 
 
 <hr>
@@ -38,10 +38,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact" alt="rohis10iq" /></p>
+<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohis10iq" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rohis10iq&show_icons=true&locale=en" alt="rohis10iq" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohis10iq&" alt="rohis10iq" /></p>
 
 <hr>
