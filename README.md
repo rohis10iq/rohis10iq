@@ -13,18 +13,7 @@
 
 <h2 align="left">Web Development 🕸:</h2>
 <p align="left">
-  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-  [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-  [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-  [![Redux](https://skillicons.dev/icons?i=redux)](https://skillicons.dev)
-  [![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
-  [![npm](https://skillicons.dev/icons?i=npm)](https://skillicons.dev)
-  [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-  [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-  [![Framer](https://skillicons.dev/icons?i=framer)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <hr>
