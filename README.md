@@ -1,7 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohail Iqbal.</h1>
 <p align="center">rohis10iq</p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, #00f260, #0575e6); margin: 20px 0;">
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00f260, #0575e6, #00f260); margin: 20px 0; animation: gradientAnimation 3s infinite;">
+<style>
+@keyframes gradientAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+</style>
+
 
 
 <h3 align="center">a work-in-progress....</h3>
