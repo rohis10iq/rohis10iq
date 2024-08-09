@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohail Iqbal.</h1>
 <p align="center">rohis10iq</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="Animated Gradient Line" width="100%" />
-</p>
-
+<hr>
 
 <h3 align="center">a work-in-progress....</h3>
 
