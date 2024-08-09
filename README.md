@@ -38,6 +38,7 @@
 
 <hr>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohis10iq"/>
+<h2 align="left">Stats: 🗿</h2>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact&theme=dark&center" alt="rohis10iq"/>
 
 <hr>
