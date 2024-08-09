@@ -34,7 +34,7 @@
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rohis10iq/)
   [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/rohis10iq/)
-  [![YouTube](https://skillicons.dev/icons?i=youtube&theme=dark)](https://www.youtube.com/@rohis10iq)
+  [![YouTube](https://skillicons.dev/icons?i=yt&theme=dark)](https://www.youtube.com/@rohis10iq)
   [![Medium](https://skillicons.dev/icons?i=medium&theme=dark)](https://medium.com/@leorohi)
   [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:leorohi10@gmail.com)
 
