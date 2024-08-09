@@ -3,7 +3,7 @@
 
 <hr>
 
-<h3 align="center">A work-in-progress....</h3>
+<h3 align="center">a work-in-progress....</h3>
 
 - 🔭 I'm currently learning **React JS and Next JS** 
 
@@ -13,19 +13,13 @@
 
 <h2 align="left">Web Development 🕸:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nextjs,nodejs,npm,azure,babel,c,cpp,git,github,gmail,instagram,LinkedIn,md,nextjs,py,react,redux,tailwind,vite,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,redux,nextjs&theme=dark)](https://skillicons.dev)
 
 
 <hr>
 
 <h2 align="left">Tools 🛠:</h2>
-<p align="left">
-  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-  [![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
-  [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nextjs,nodejs,npm,azure,babel,c,cpp,git,github,gmail,instagram,LinkedIn,md,nextjs,py,react,redux,tailwind,vite,vscode&theme=dark)](https://skillicons.dev)
 
 <hr>
 
