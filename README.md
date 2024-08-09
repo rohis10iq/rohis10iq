@@ -12,9 +12,9 @@
 <hr>
 
 <h2 align="left">Web Development 🕸:</h2>
-<p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <hr>
 
