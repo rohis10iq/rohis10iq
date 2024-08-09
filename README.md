@@ -19,26 +19,26 @@
 <hr>
 
 <h2 align="left">Tools 🛠:</h2>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,nextjs,nodejs,npm,azure,babel,c,cpp,git,github,gmail,instagram,LinkedIn,md,nextjs,py,react,redux,tailwind,vite,vscode&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,npm,azure,babel,md,vite,vscode&theme=dark)](https://skillicons.dev)
 
 <hr>
 
 <h2 align="left">Computer Programming 👨🏻‍💻:</h2>
-<p align="left">
-  [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-  [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py&theme=dark)](https://skillicons.dev)
 
 <hr>
 
 <h2 align="left">Connect With Me: 🤝:</h2>
-<p align="left">
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rohis10iq/)
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/rohis10iq/)
-  [![YouTube](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@rohis10iq)
-  [![Medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@leorohi)
-</p>
+
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/rohis10iq/)
+  [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/rohis10iq/)
+  [![YouTube](https://skillicons.dev/icons?i=youtube&theme=dark)](https://www.youtube.com/@rohis10iq)
+  [![Medium](https://skillicons.dev/icons?i=medium&theme=dark)](https://medium.com/@leorohi)
+  [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:leorohi10@gmail.com)
+
+
 
 <hr>
 
