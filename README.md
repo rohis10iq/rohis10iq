@@ -38,7 +38,6 @@
 
 <hr>
 
-<p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohis10iq" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohis10iq&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohis10iq"/>
 
 <hr>
