@@ -13,7 +13,7 @@
 
 <h2 align="left">Web Development 🕸:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,nextjs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux,nextjs,firebase,framer&theme=dark)](https://skillicons.dev)
 
 
 <hr>
