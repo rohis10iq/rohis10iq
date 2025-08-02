@@ -5,9 +5,9 @@
 
 <h3 align="center">a work-in-progress....</h3>
 
-- 🔭 I'm currently learning **React JS and Next JS** 
+- 🔭 **AI Engineer** ⌛
 
-- 📫 You can reach out to me at this email **leorohi10@gmail.com**
+- 📫 You can reach out to me at this email **rohailtheiqbal@gmail.com**
 
 <hr>
 
